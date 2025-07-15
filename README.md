@@ -9,3 +9,4 @@ This repository focuses on the extraction of features from smart contract byteco
 
 ### Security Analysis Tools for SC
 * [Mythril](https://github.com/ConsenSys/mythril)
+* [Slither](https://github.com/crytic/slither)
