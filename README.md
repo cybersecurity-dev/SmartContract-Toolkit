@@ -7,3 +7,5 @@ This repository focuses on the extraction of features from smart contract byteco
 * [Solidity](https://soliditylang.org/) - A statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum.
 * [Vyper](https://vyperlang.org/) - Vyper is a smart contract language with a relentless focus on security, simplicity, and readability. It empowers developers to write clean, auditable, and gas-efficient code for the EVM, without common pitfalls.
 
+### Security Analysis Tools for SC
+* [Mythril](https://github.com/ConsenSys/mythril)
