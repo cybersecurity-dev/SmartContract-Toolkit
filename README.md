@@ -13,3 +13,6 @@ This repository focuses on the extraction of features from smart contract byteco
 - [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck – a static analysis tool that detects vulnerabilities and bugs in Solidity programs (Ethereum-based smart contracts).
 - [Osiris](https://github.com/christoftorres/Osiris) - An analysis tool to detect integer bugs in Ethereum smart contracts.
 - [Oyente](https://github.com/enzymefinance/oyente) (_This project is not maintained anymore_) - An Analysis Tool for Smart Contracts
+
+### SC Crawler
+- [ChainWalker](https://github.com/0xsha/ChainWalker) - ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information. A small tool that can help us find contracts, extract the EVM code, and disassemble the opcodes. It allows us to select specific blocks or even specific contract balances.
