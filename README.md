@@ -8,6 +8,7 @@ This repository focuses on the extraction of features from smart contract byteco
 * [Vyper](https://vyperlang.org/) - Vyper is a smart contract language with a relentless focus on security, simplicity, and readability. It empowers developers to write clean, auditable, and gas-efficient code for the EVM, without common pitfalls.
 
 ### Security Analysis Tools for SC
+- [eThor](https://secpriv.wien/ethor/) - A sound static analyzer for EVM smart contracts based on HoRSt.
 - [Mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
 - [Securify v2.0](https://github.com/eth-sri/securify2) - Securify 2.0 is a security scanner for Ethereum smart contracts supported by the Ethereum Foundation and ChainSecurity.
 - [Slither](https://github.com/crytic/slither) - Slither is a Solidity & Vyper static analysis framework written in Python3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.
