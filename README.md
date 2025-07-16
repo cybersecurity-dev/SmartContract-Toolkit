@@ -27,5 +27,10 @@ This repository focuses on the extraction of features from smart contract byteco
 - [Osiris](https://github.com/christoftorres/Osiris) - An analysis tool to detect integer bugs in Ethereum smart contracts.
 - [Oyente](https://github.com/enzymefinance/oyente) (_This project is not maintained anymore_) - An Analysis Tool for Smart Contracts
 
+### References
+- [An Ethereum Virtual Machine Opcodes Interactive Reference](https://www.evm.codes/)
+- [Opcodes for the EVM](https://ethereum.org/en/developers/docs/evm/opcodes/)
+- [Ethereum Virtual Machine Opcodes](https://ethervm.io/)
+
 ### SC Crawler
 - [ChainWalker](https://github.com/0xsha/ChainWalker) - ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information. A small tool that can help us find contracts, extract the EVM code, and disassemble the opcodes. It allows us to select specific blocks or even specific contract balances.
