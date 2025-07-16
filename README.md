@@ -9,6 +9,7 @@ This repository focuses on the extraction of features from smart contract byteco
 
 ### Security Analysis Tools for SC
 - [Mythril](https://github.com/ConsenSysDiligence/mythril) - Mythril is a symbolic-execution-based security analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.
+- [Securify v2.0](https://github.com/eth-sri/securify2) - 
 - [Slither](https://github.com/crytic/slither) - Slither is a Solidity & Vyper static analysis framework written in Python3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.
 - [SmartCheck](https://github.com/smartdec/smartcheck) - SmartCheck – a static analysis tool that detects vulnerabilities and bugs in Solidity programs (Ethereum-based smart contracts).
 - [Osiris](https://github.com/christoftorres/Osiris) - An analysis tool to detect integer bugs in Ethereum smart contracts.
