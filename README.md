@@ -21,7 +21,3 @@ You can access the security analysis tools [here](https://github.com/cybersecuri
 ### SC Crawler
 You can access the SC Crawler [here](https://github.com/cybersecurity-dev/awesome-smart-contract/#sc-crawler)
 
-### References
-- [An Ethereum Virtual Machine Opcodes Interactive Reference](https://www.evm.codes/)
-- [Opcodes for the EVM](https://ethereum.org/en/developers/docs/evm/opcodes/)
-- [Ethereum Virtual Machine Opcodes](https://ethervm.io/)
