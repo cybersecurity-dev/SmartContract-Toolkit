@@ -13,15 +13,15 @@
 This repository focuses on the extraction of features from smart contract bytecode/source code for the purpose of vulnerability/malicious detection.
 
 ### SC Specialized Programming Languages
-You can access the programming language information [here](https://github.com/cybersecurity-dev/awesome-smart-contract/tree/main?tab=readme-ov-file#sc-specialized-programming-languages)
+You can access the programming language information [here](https://github.com/cybersecurity-dev/awesome-smart-contract/#sc-specialized-programming-languages)
 
 ### Security Analysis Tools for SC
-You can access the security analysis tools [here](https://github.com/cybersecurity-dev/awesome-smart-contract/tree/main?tab=readme-ov-file#security-analysis-tools-for-sc)
+You can access the security analysis tools [here](https://github.com/cybersecurity-dev/awesome-smart-contract/#security-analysis-tools-for-sc)
+
+### SC Crawler
+You can access the SC Crawler [here](https://github.com/cybersecurity-dev/awesome-smart-contract/#sc-crawler)
 
 ### References
 - [An Ethereum Virtual Machine Opcodes Interactive Reference](https://www.evm.codes/)
 - [Opcodes for the EVM](https://ethereum.org/en/developers/docs/evm/opcodes/)
 - [Ethereum Virtual Machine Opcodes](https://ethervm.io/)
-
-### SC Crawler
-- [ChainWalker](https://github.com/0xsha/ChainWalker) - ChainWalker is a smart contract scraper which uses RCP/IPC calls to extract the information. A small tool that can help us find contracts, extract the EVM code, and disassemble the opcodes. It allows us to select specific blocks or even specific contract balances.
