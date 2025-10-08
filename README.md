@@ -21,3 +21,15 @@ You can access the security analysis tools [here](https://github.com/cybersecuri
 ### SC Crawler
 You can access the SC Crawler [here](https://github.com/cybersecurity-dev/awesome-smart-contract/#sc-crawler)
 
+
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/SmartContract-Toolkit/graphs/contributors)!
+
+[🔼 Back to top](#smart-contract-toolkit)
