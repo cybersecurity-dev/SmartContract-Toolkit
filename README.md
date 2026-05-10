@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
         <a href="https://github.com/cybersecurity-dev/awesome-smart-contract">
-         <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/sc.png" />
+         <img width="25%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/sc.png" />
         </a>
     </p>
 
