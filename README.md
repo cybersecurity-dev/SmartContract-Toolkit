@@ -1,4 +1,9 @@
 <div align="center">
+    <p align="center">
+        <a href="https://github.com/cybersecurity-dev/awesome-smart-contract">
+         <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/sc.png" />
+        </a>
+    </p>
 
 # **`Smart Contract`** Toolkit 
 </div>
@@ -25,7 +30,6 @@ You can access the security analysis tools [here](https://github.com/cybersecuri
 
 ### SC Crawler
 You can access the SC Crawler [here](https://github.com/cybersecurity-dev/awesome-smart-contract/#sc-crawler)
-
 
 ##
 
