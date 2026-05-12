@@ -22,6 +22,21 @@
 
 This repository focuses on the extraction of features from smart contract bytecode/source code for the purpose of vulnerability/malicious detection.
 
+## Opcode vs Bytecode
+- Opcode : An opcode is the part of a machine instruction that tells the CPU what operation to perform.
+    - Example (_conceptual_):
+      ```asm
+      Opcode: ADD
+      Operands: R1, R2
+      ```
+- Bytecode : Bytecode is an intermediate instruction format designed for a virtual machine, not real hardware.
+    - Example (_Java bytecode_):
+      ```java
+      iload_1
+      iload_2
+      iadd
+      ireturn
+      ```
 ## Smart Contract **`Disassembler`**
 - A disassembler converts machine code (binary) into `assembly language instructions`.
 
