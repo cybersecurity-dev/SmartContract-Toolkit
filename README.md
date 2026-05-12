@@ -22,6 +22,14 @@
 
 This repository focuses on the extraction of features from smart contract bytecode/source code for the purpose of vulnerability/malicious detection.
 
+## Smart Contract **`Disassembler`**
+- A disassembler converts machine code (binary) into `assembly language instructions`.
+
+## Smart Contract **`Decompiler`**
+- A decompiler tries to convert machine code into `high-level source code` (like C or pseudocode).
+
+##
+
 ### SC Specialized Programming Languages
 You can access the programming language information [here](https://github.com/cybersecurity-dev/awesome-smart-contract/#sc-specialized-programming-languages)
 
