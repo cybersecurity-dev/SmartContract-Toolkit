@@ -23,6 +23,11 @@
 This repository focuses on the extraction of features from smart contract bytecode/source code for the purpose of vulnerability/malicious detection.
 
 ## Opcode vs Bytecode
+```
+MACHINE CODE → Disassembly → Assembly
+MACHINE CODE → Decompilation → C-like code
+BYTECODE     → Decompilation → Java/Python-like code
+```
 - Opcode : An opcode is the part of a machine instruction that tells the CPU what operation to perform.
     - Example (_conceptual_):
       ```asm
